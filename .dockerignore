@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local virtual environments
+venv/
+.env/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jupyter notebooks (optional)
+*.ipynb
+
+# OS files
+.DS_Store
+
+# Git
+.git
+.gitignore
+
+# Large files or secrets
+*.db
+*.sqlite3
+*.h5
+secrets.txt
+
